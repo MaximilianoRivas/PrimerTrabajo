@@ -1,0 +1,1024 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+.heros{
+   
+    display: block;
+    padding: 2rem;
+    text-align: left;
+    width: 100%;
+    
+    
+   
+    
+   }
+   .eros{
+   
+    display: flex;
+    position: absolute;
+    top: 25rem; 
+    padding-left:170px;
+    font-size: 2rem;
+    color: white;
+    width: 97%;
+    
+    
+    
+   }
+   .photograpy{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+   }
+
+   .toma{
+
+    display: flex;
+    text-transform: uppercase;
+    padding: 20px;
+    
+    left: 180px;
+    padding-right: 960px;
+    font-size: 2rem;
+    width: 50%;
+    color: brown; 
+   
+    
+
+   }
+   .presentacion{
+    width: 100%;
+    
+   }
+
+   .profesional{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 100px;
+    
+
+   }
+   .profesional1{
+    
+    margin-left: 100px;
+    font-size: 1.5rem;
+    text-align: left;
+    text-transform: uppercase;
+   }
+   .parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 65px;
+    font-size: 15px;
+    width: 51%;
+   }
+   .fotoco{
+    
+    position: absolute;
+    top: 580px;
+    right: 0px;
+    left: 650px;
+    width: 380px;
+    height: 500px;
+    
+   }
+
+   .bestwork{
+   
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0,5rem;
+    margin-left: 4rem;
+    padding-top: 70px;
+    
+    
+   }
+   
+   .aurora,.montaña{
+    width: 390px;
+    height:300px;
+    
+   }
+   
+   .naranja{
+    width: 390px;
+    height: 300px;
+    
+    
+
+   }
+   .parrafo1,.parrafo2{
+    color: darkgrey;
+    
+   }
+   .parrafito{
+    color: darkgray;
+    position: absolute;
+    top: 1628px;
+    left: 538px;
+   }
+   .parrafitos{
+    color: darkgrey;
+    position: absolute;
+    top: 1628px;
+    left: 934px;
+   }
+   
+
+   .flecha{
+    color: darkgrey;
+    padding: 20px;
+    width: 90px;
+    height: 150px;
+
+}
+.work{
+    display: block;
+    margin: 2rem;
+    padding-top: 150px;
+    padding-left: 60px;
+    text-transform: uppercase;
+    width: 10%;
+
+
+}
+.video{
+    margin: 3rem;
+}
+
+.titulo{
+    text-transform: uppercase;
+    width: 20%;
+    padding: 3rem 0;
+    margin: 2rem;
+}
+.play3d{
+    
+    margin: 2rem;
+    width: 3rem;
+    position: absolute;
+    top: 2199px;
+    right: 0;
+    left: 980px;
+    bottom: 100px;
+}
+.played{
+    margin: 2rem;
+    width: 3rem;
+    position: absolute;
+    top: 2199px;
+    left: 300px;
+    
+
+}
+
+.maxi1{
+    position: absolute;
+    right:230px;
+    top: 1116px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:white;
+}
+.oslo1{
+   
+    font-size: 1rem;
+    color:white;
+    position: absolute;
+    left: 810px;
+    top: 2270px;
+}
+.casa{
+    padding-left: 35px;
+    width: 550px;
+    height: 400px;
+}
+.centro{
+    
+    width: 550px;
+    height: 400px;
+}
+.h11{
+    padding-left: 5rem;
+    padding-top: 16px;
+    
+}
+
+
+.yes{
+
+    font-size: 13px;
+    padding-top: 160px;
+    padding-right: 74px;
+    width: 28%;
+}
+.clase1{
+    display: inline-flex;
+    justify-content: space-evenly;
+    
+}
+.clases{
+    
+    padding-bottom: 50px;
+}
+.ah,.oh,.ohi{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    padding-top: 50px;
+    
+    
+}
+.oh{
+    border-bottom: 2px solid black;
+    word-spacing: 4vw;
+
+
+}
+.oho{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    padding-top: 54px;
+    word-spacing: 9vw;
+    border-bottom: 2px solid black;
+}
+
+.ohi{
+    font-size: 1rem;
+    list-style: none;
+    text-transform: uppercase;
+    
+    word-spacing: 5vw;
+    border-bottom: 2px solid black;
+}
+.ah{
+    width: 18%;
+    
+}
+
+
+.award{
+    background-color: linen;
+    padding-left: 3rem;
+    padding-top: 40px;
+    width:95%;
+    
+}
+
+.award1{
+    display: flex;
+    justify-content: space-between;
+       
+}
+.awar{
+    padding-left: 1rem;
+}
+.textos1{
+    padding-top: 16rem;
+    padding-left: 7px;
+    width: 25%;
+}
+    
+.personas2{
+    width: 400px;
+    height: 400px;
+}
+.lunes1{
+    text-transform: uppercase;
+    padding: 1rem 0;
+    margin: 3rem ;
+   
+}
+
+.martes1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+    
+    
+}
+.miercoles{
+    width: 20%;
+    height: 150px;
+    padding-top: 7px;
+    display: block;
+   
+}
+.hol11{
+    width: 30px;
+}
+
+form{
+    width: 240px;
+    height: 440px;
+    border-radius: 10px;  
+    
+}
+
+
+input{
+    width: 100%;
+    padding:0;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    border: 0;
+    border-bottom: 4px solid black;
+    margin: 2px 0 0 ;
+}
+
+    
+.enviar{
+    background-color:black;
+    color: white;
+    border-radius: 2px;
+    width: 80px;
+    height: 40px;
+    margin: 30px 0 0 ;
+}
+.redes{
+  padding: 2rem;
+  margin-top: -250px;
+  padding-left: 140px;
+    
+}
+
+@media screen and (max-width:1080px){
+    .fotoco{
+        position: absolute;
+        left: 700px;
+        top:700px;
+        width: 330px;
+        height: 450px;
+       }    
+        .toma{
+         display: flex;
+         position: absolute;
+         left: 250px;
+         text-transform: uppercase;
+         padding: 30px;
+         font-size: 5rem;
+         width:67%;
+        
+         
+     }
+     .photograpy{
+         position: absolute;
+         top: 10px;
+         left: 20px;
+         color:white;
+     }   
+     .fotoco{
+         position: absolute;
+         left: 700px;
+         top:700px;
+         width: 330px;
+         height: 450px;
+        }     
+     .aurora{
+         width: 330px;
+         height: 220px;
+     }
+     .montaña{
+         width: 330px;
+         height: 220px;
+         
+     }
+     .naranja{
+         width: 330px;
+         height: 220px;
+     }
+     .flecha{
+         width: 90px;
+     }
+     
+     .parrafito{
+         
+         position: absolute;
+         left:418px;
+         top: 1700px;
+     
+     }
+     
+     .parrafitos{
+     
+         position: absolute;
+         left:755px;
+         top:1700px;
+         
+     }
+ 
+ 
+     .casa{
+         width: 650px;
+         height: 400px;
+     
+     }
+     .centro{
+         width: 550px;
+         height: 300;
+     }
+     
+     .vide{
+         display: flex;
+         justify-content: space-around;
+     }
+     .play3d{
+         position: absolute;
+         top: 2250px;
+         left: 900px;
+     }
+     .played{
+         position: absolute;
+         left:300px;
+         top:2250px;
+     }
+     
+     
+     .maxi1{
+         
+         position: absolute;
+         left:353px;
+         top:1140px;
+         font-size: 1.5rem;
+        
+     }
+     .oslo1{
+         position:absolute;
+         left:692px;
+         top:2320px;
+         
+     }
+     .yes{
+         padding-top: 100px;
+         width: 40%;
+         
+     }
+ 
+     .ah{
+         width: 30%;
+     }
+    
+     .ohi,.oho,.oh{
+         width: 90%;
+     }
+     
+     .award1{
+       
+         display: flex;
+         justify-content: space-evenly;
+         
+     }
+     .award{
+         width: 100%;
+        
+     }
+     
+     .personas2{
+         
+         width: 280px;
+         height: 320px;
+     }
+     .textos1{
+         
+         padding-right: 10px;
+         padding-top: 7rem;
+         width: 30%;
+         
+     }
+     .redes{
+         padding-left: 15px;
+     }
+  
+       
+    
+}
+ 
+ @media screen and (max-width:1024px) {
+     .toma{
+         display: flex;
+         position: absolute;
+         left: 250px;
+         text-transform: uppercase;
+         padding: 30px;
+         font-size: 5rem;
+         width:67%;
+        
+         
+     }
+     .photograpy{
+         position: absolute;
+         top: 10px;
+         left: 20px;
+         color:white;
+     }   
+     .fotoco{
+         position: absolute;
+         left: 700px;
+         top:700px;
+         width: 330px;
+         height: 450px;
+        }     
+     .aurora{
+         width: 330px;
+         height: 220px;
+     }
+     .montaña{
+         width: 330px;
+         height: 220px;
+         
+     }
+     .naranja{
+         width: 330px;
+         height: 220px;
+     }
+     .flecha{
+         width: 90px;
+     }
+     
+     .parrafito{
+         
+         position: absolute;
+         left:438px;
+         top: 1899px;
+     
+     }
+     
+     .parrafitos{
+     
+         position: absolute;
+         left:710px;
+         top:1899px;
+         
+     }
+ 
+ 
+     .casa{
+         width: 650px;
+         height: 400px;
+     
+     }
+     .centro{
+         width: 550px;
+         height: 300;
+     }
+     
+     .vide{
+         display: flex;
+         justify-content: space-around;
+     }
+     .play3d{
+         position: absolute;
+         top: 2250px;
+         left: 900px;
+     }
+     .played{
+         position: absolute;
+         left:300px;
+         top:2250px;
+     }
+     
+     
+     .maxi1{
+         
+         position: absolute;
+         left:353px;
+         top:1140px;
+         font-size: 1.5rem;
+        
+     }
+     .oslo1{
+         position:absolute;
+         left:692px;
+         top:2320px;
+         
+     }
+     .yes{
+         padding-top: 100px;
+         width: 40%;
+         
+     }
+ 
+     .ah{
+         width: 30%;
+     }
+    
+     .ohi,.oho,.oh{
+         width: 90%;
+     }
+     
+     .award1{
+       
+         display: flex;
+         justify-content: space-evenly;
+         
+     }
+     .award{
+         width: 100%;
+        
+     }
+     
+     .personas2{
+         
+         width: 280px;
+         height: 320px;
+     }
+     .textos1{
+         
+         padding-right: 10px;
+         padding-top: 7rem;
+         width: 30%;
+         
+     }
+     .redes{
+         padding-left: 15px;
+     }
+ 
+ 
+     
+   }
+   @media screen and (max-width:922px){
+    .toma{
+       
+       padding: 47px;
+    }
+    .photograpy,.toma{
+        color: black;
+    }
+    .fotoco{
+        width: 300px;
+        height: 423px;
+        position: absolute;
+        top: 910px;
+        left: 580px;
+        
+        
+    }
+    .parrafo{
+        width:75%;
+        font-size:18px;
+    }
+
+    .aurora{
+        width: 220px;
+        height: 300px;
+    }
+    .montaña{
+        width: 220px;
+        height: 300px;
+
+    }
+    .naranja{
+        width: 220px;
+        height: 300px;
+    }
+    .parrafo1,.parrafo2{
+        color: chartreuse;
+        font-size: 18px;
+    }
+    .parrafito{
+        position: absolute;
+        top: 2030px;
+        left:400px;
+        color: black;
+        
+
+    }
+    .parrafitos{
+        position: absolute;
+        top: 2030px;
+        left:640px;
+        color: black;
+
+    }
+   
+    .casa{
+        width: 400px;
+        height: 442px;
+
+    }
+    .centro{
+    width: 400px;
+    height: 440px;
+
+    }
+    .play3d{
+        
+        position: absolute;
+        top: 2500px;
+        left: 590px;
+
+    }
+    .played{
+        
+        position: absolute;
+        top: 2500px;
+        left: 190px;
+        
+
+    }
+    .maxi1{
+        
+        position: absolute;
+        top: 1270px;
+        left: 240px;
+    }
+    .oslo1{
+       
+        position: absolute;
+        top: 2600px;
+        left: 470px;
+        
+    }
+   
+    .yes{
+        padding-top: 90px;
+        width: 50%;
+        font-size: 20px;
+    }
+    .ah{
+        width: 28%;
+    }
+    .award{
+        
+        width: 100%;
+    }
+    .personas2{
+        width: 265px;
+        
+    }
+    .textos1{
+        width: 30%;
+    }
+    
+    }
+    
+    @media screen and (max-width:768px){
+        .photograpy,.toma{
+            color: darkgreen;
+        }
+        .fotoco{
+         width: 300px;
+        height: 423px;
+        position: absolute;
+        top: 910px;
+        left: 465px;
+       
+
+        }
+        .bestwork{
+            margin: 0;
+           
+        }
+        .aurora{
+            width: 230px;
+            height: 300px;
+        }
+        .montaña{
+            width: 230px;
+            height: 300px;
+    
+        }
+        .naranja{
+            width: 230px;
+            height: 300px;
+        }
+        .flecha{
+            width: 70px;
+        }
+        .parrafo1,.parrafo2{
+            
+            font-size: 18px;
+        }
+        .parrafito{
+            position: absolute;
+            top: 1984px;
+            left:285px;
+            color: black;
+            
+    
+        }
+        .parrafitos{
+            position: absolute;
+            top: 1984px;
+            left:515px;
+            color: black;
+    
+        }
+
+        .imagenes1{
+          
+            width: 105%;
+        }
+       
+        .casa{
+            width: 340px;
+            height: 400px;
+    
+        }
+        
+        .centro{
+        width: 360px;
+        height: 400px;
+    
+        }
+        .play3d{
+            
+            position: absolute;
+            top: 2500px;
+            left: 590px;
+    
+        }
+        .played{
+            
+            position: absolute;
+            top: 2500px;
+            left: 190px;
+            
+    
+        }
+        .maxi1{
+            
+            position: absolute;
+            top: 1270px;
+            left: 240px;
+        }
+        .oslo1{
+           
+            position: absolute;
+            top: 2600px;
+            left: 470px;
+            
+        }
+        .award1{
+            width: 100%;
+           
+        }
+        .personas2{
+            width: 260px;
+            height: 400px;
+
+        }
+            
+            .textos1{
+                width:30%;
+            }
+
+        }
+        @media screen and (max-width:576px){
+              
+            .photograpy{
+                color: deeppink;
+                margin: 0;
+                padding-top: 0;
+                left: 20px;
+                
+
+            }
+            .toma{
+                color: deeppink;
+                padding: 0;
+                margin: 0;
+                padding-top: 0;
+                left: 20px;
+                
+            }
+            .fotoco{
+           width: 200px;
+            height: 423px;
+            position: absolute;
+            top: 1460px;
+            left: 370px;
+    
+            }
+            .aurora{
+                width: 150px;
+                height: 200px;
+            }
+            .montaña{
+                width: 150px;
+                height: 200px;
+        
+            }
+            .naranja{
+                width: 150px;
+                height: 200px;
+            }
+            .flecha{
+                width: 80px;
+            }
+            .parrafito{
+                
+                position: absolute;
+                top: 2013px;
+                left:230px;
+                color: black;
+                
+        
+            }
+            .parrafitos{
+                
+                position: absolute;
+                top: 2013px;
+                left:385px;
+                color: black;
+        
+            }
+    
+            .imagenes1{
+              
+                width: 105%;
+            }
+           
+            .casa{
+                width: 270px;
+                height: 200px;
+        
+            }
+            
+            .centro{
+            width: 270px;
+            height: 200px;
+        
+            }
+            .play3d{
+                
+                position: absolute;
+                top: 2350px;
+                left: 450px;
+        
+            }
+            .played{
+                
+                position: absolute;
+                top: 2350px;
+                left: 190px;
+                
+        
+            }
+            .maxi1{
+                
+                position: absolute;
+                top: 1190px;
+                left: 190px;
+            }
+            .oslo1{
+               
+                position: absolute;
+                top: 2430px;
+                left: 370px;
+                
+            }
+            .award1{
+                width: 100%;
+               
+            }
+            .personas2{
+                width: 210px;
+                height: 260px;
+    
+            }
+                
+                .textos1{
+                    font-size:12px;
+                }
+    
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+   
